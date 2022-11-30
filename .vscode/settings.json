@@ -1,0 +1,30 @@
+{
+    "editor.fontFamily": "'IBM Plex Mono', Monaco, 'Courier New', monospace",
+    "editor.lineHeight": 25,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.colorDecorators": false,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+    },
+    "workbench.colorTheme": "Origamid",
+  }
+  
